@@ -5,3 +5,4 @@
 /WebApi/obj
 /WebApi/bin/Debug/netcoreapp3.1
 /.vs/WebApi
+/.idea/
